@@ -21,3 +21,9 @@ No programa, o usuário terá um menu de acesso com 06 (seis) opções além do 
 Futuramente, o sistema fará a combinação dos dados e sugerirá as melhores combinações possíveis, levando em consideração a proximidade geográfica, preferência dos doadores e urgência das necessidades das organizações.
 
 Além disso, desenvolvemos um site que, além de todas as funcionalidades citadas acima, fornece recursos como dicas de armazenamento adequado e receitas para reaproveitamento de ingredientes, incentivando a redução do desperdício de alimentos.
+
+C. VÍDEO-EXPLICATIVO NO YOUTUBE:
+
+
+D. LINK PARA ACESSO DO CÓDIGO NO GITHUB:
+https://github.com/gabitrevisan/GS-PYTHON
