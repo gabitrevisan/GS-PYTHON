@@ -23,7 +23,7 @@ Futuramente, o sistema fará a combinação dos dados e sugerirá as melhores co
 Além disso, desenvolvemos um site que, além de todas as funcionalidades citadas acima, fornece recursos como dicas de armazenamento adequado e receitas para reaproveitamento de ingredientes, incentivando a redução do desperdício de alimentos.
 
 C. VÍDEO-EXPLICATIVO NO YOUTUBE:
-
+https://youtu.be/isH41uIdmJw
 
 D. LINK PARA ACESSO DO CÓDIGO NO GITHUB:
 https://github.com/gabitrevisan/GS-PYTHON
